@@ -1,0 +1,11 @@
+﻿{
+  "type": "firealarm",
+  "deviceId": "win1",
+  "clientId": "GKbYVX4ho27YCc9UPzi79vkiHMUa",
+  "clientSecret": "eazkaOhoWeUg8eEZ8C3f84iEtYMa",
+  "accessToken": "794af466-2b66-3914-a401-7109029b93ba",
+  "refreshToken": "079f764f-ddb8-3cca-904b-6bb4316082d4",
+  "mqttGateway": "tcp://192.168.8.101:1886",
+  "httpsGateway": "https://192.168.8.101:8243",
+  "httpGateway": "http://192.168.8.101:8280"
+}
